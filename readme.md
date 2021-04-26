@@ -1,5 +1,4 @@
 # Websocket Starter Template
-# --------------------------
 
 Supported Programming Languange
 ### Server
